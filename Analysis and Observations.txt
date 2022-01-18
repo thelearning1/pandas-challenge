@@ -1,0 +1,30 @@
+Observations---
+
+1. The playerbase is very obviously centered around the ages of 20 and 25, approaching half of the total customer base
+   breaking down the gender demographics within the age groups might produce interesting results.
+
+2. while males have the most purchases by a longshot, they do have the lowest average purchase 
+   of the group. Females and others/non-disclosed have a higher propensity for more expensive purchases.
+   They may tend towards items of observably higher quality, assuming the items are priced based on their cost of production.
+
+3. While the majority of purchases are made by the largest group of players (ages 20-25), there is an interesting grouping of
+   high purchase averages across the 30-39 age groups. This could imply a small, yet dedicated playerbase of adults established 
+   in their professional careers with money to spend and an interest in higher value items. 
+
+
+Business suggestion:
+
+While looking for actionable data using a dummy business, we can only go so far.
+
+However, based on the numbers used for the assignment, I would suggest two focuses to company leadership.
+
+1. The obvious one: Focus on making low-to-moderate production cost items focused on your largest playerbase, the males ages 20-24.
+   they aren't as likely to have a lot of disposable income, but their free time and generational likelihood to find value in
+   in-game purchases will always cause them to be repeat buyers. Quantity might outpace quality here.
+
+2. The high-risk high-reward: Depening on the gender->age ratios in the playerbase, making very high quality items focused on the
+   purchase patterns of the 30-40 demographics would likely yield good results. The 20-24 age group would likely see 
+   good purchases of these items due to sheer volume in that group, but the margins in the categories that have more disposablie income
+   and a higher bar for quality would yield steep profits for fewer items. Certainly not demographics to be ignored.
+
+
